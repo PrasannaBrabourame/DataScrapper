@@ -1,0 +1,14 @@
+{
+  "name": "datascrapper-main",
+  "version": "1.0.0",
+  "description": "DataScrapper with NodeJS Puppeter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.4.0"
+  }
+}
